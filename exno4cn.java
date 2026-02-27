@@ -120,3 +120,13 @@ public class DnsServer {
         }
     }
 }
+
+output:
+
+server output(dnsserver.java)
+press ctrl + c to quit
+Request for host gmail.com
+
+client output:
+Enter the host name : gmail.com
+    Ip address : 209.85.148.19
